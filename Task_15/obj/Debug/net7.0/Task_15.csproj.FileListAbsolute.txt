@@ -1,0 +1,15 @@
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\bin\Debug\net7.0\Task_15.exe
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\bin\Debug\net7.0\Task_15.deps.json
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\bin\Debug\net7.0\Task_15.runtimeconfig.json
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\bin\Debug\net7.0\Task_15.dll
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\bin\Debug\net7.0\Task_15.pdb
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.dll
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\refint\Task_15.dll
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.pdb
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\Task_15.genruntimeconfig.cache
+C:\Users\Людмила\Desktop\Homework_sharp2\Task_15\obj\Debug\net7.0\ref\Task_15.dll
